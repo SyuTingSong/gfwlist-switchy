@@ -5,6 +5,7 @@
  * Date: 2014/7/12
  * Time: 上午2:53
  */
+date_default_timezone_set('Asia/Taipei');
 
 $wildcard = require 'merge_wildcard.php';
 $regexp = require 'merge_regexp.php';
@@ -53,7 +54,7 @@ header('Content-Type: text/plain');
 ; Summary: Merged GFWed Rule List
 ; Author: rek
 ; Date: <?=date('Y-m-d')?>
-; URL: https://rek.me/mgrl/rules.php
+; URL: https://rek.me/rules.txt
 
 #BEGIN
 

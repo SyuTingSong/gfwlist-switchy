@@ -6,6 +6,8 @@
  * Time: 上午3:40
  */
 return array(
+    'http://ip.cn/*',
+    '*.google.*',
     '*://*.hidemyass.com/*',
     '*://hidemyass.com/*',
     '*://*.akamai.net/*',
