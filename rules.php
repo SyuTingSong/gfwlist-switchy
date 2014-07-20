@@ -34,6 +34,7 @@ $rules = <<<RULE
 ||blogspot.jp
 ||book.com.tw
 ||books.com.tw
+||businessinsider.com
 ||c9.io
 ||canyu.org
 ||chrome.com
