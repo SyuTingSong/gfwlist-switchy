@@ -44,6 +44,7 @@ $rules = <<<RULE
 ||disqus.com
 ||doubleclick.net
 ||dropbox.com
+||drx.tw
 ||dyndns.org
 ||edgesuite.net
 ||engadget.com
