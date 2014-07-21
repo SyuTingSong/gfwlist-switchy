@@ -61,6 +61,7 @@ $rules = <<<RULE
 ||googleapis.com
 ||googlecode.com
 ||googlesyndication.com
+||googletagservices.com
 ||googleusercontent.com
 ||googlevideo.com
 ||gstatic.com
