@@ -25,6 +25,7 @@ $rules = <<<RULE
 ||akamai.net
 ||akamaihd.net
 ||amazonaws.com
+||angularjs.org
 ||aol.com
 ||appledaily.com.tw
 ||bitbucket.org
@@ -54,7 +55,6 @@ $rules = <<<RULE
 ||filippo.io
 ||fsd.it
 ||ggpht.com
-||github.com
 ||golang.org
 ||google-analytics.com
 ||googleadservices.com
@@ -84,7 +84,6 @@ $rules = <<<RULE
 ||mongodb.org
 ||mybloglog.com
 ||nextmedia.com
-||nginx.org
 ||ntdtv.com
 ||ow.ly
 ||photowant.com
@@ -102,6 +101,7 @@ $rules = <<<RULE
 ||sourceforge.net
 ||staticflickr.com
 ||stock.hexun.com
+||ticket.com.tw
 ||tumblr.com
 ||twbbs.org
 ||twimg.com
@@ -129,6 +129,10 @@ $rules = <<<RULE
 ||ytimg.com
 ||zeromq.org
 ||zh.wikipedia.org
+!------------For Speed--------------
+||github.com
+||monkeymajik.com
+||nginx.org
 !----------------EOF----------------
 RULE;
 
