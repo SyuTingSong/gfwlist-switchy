@@ -39,6 +39,7 @@ $rules = <<<RULE
 ||c9.io
 ||canyu.org
 ||chrome.com
+||chromium.org
 ||cloudflare.com
 ||cloudfront.net
 ||dailymotion.com
