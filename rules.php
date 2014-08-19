@@ -72,7 +72,6 @@ $rules = <<<RULE
 ||idv.tw
 ||im88.tw
 ||imrworldwide.com
-||instagram.com
 ||iphone4.tw
 ||jetbrains.com
 ||josephjiang.com
@@ -136,6 +135,7 @@ $rules = <<<RULE
 ||zh.wikipedia.org
 !------------For Speed--------------
 ||github.com
+||instagram.com
 ||monkeymajik.com
 ||nginx.org
 !----------------EOF----------------
