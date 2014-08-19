@@ -38,6 +38,7 @@ $rules = <<<RULE
 ||businessinsider.com
 ||c9.io
 ||canyu.org
+||cdninstagram.com
 ||chrome.com
 ||chromium.org
 ||cloudflare.com
@@ -71,10 +72,12 @@ $rules = <<<RULE
 ||idv.tw
 ||im88.tw
 ||imrworldwide.com
+||instagram.com
 ||iphone4.tw
 ||jetbrains.com
 ||josephjiang.com
 ||joypark.com.tw
+||justfont.com
 ||ktnp.gov.tw
 ||lawrencenas.com
 ||libertytimes.com.tw
@@ -86,6 +89,7 @@ $rules = <<<RULE
 ||mybloglog.com
 ||nextmedia.com
 ||ntdtv.com
+||nuu.edu.tw
 ||ow.ly
 ||photowant.com
 ||phpdoc.org
