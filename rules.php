@@ -58,6 +58,8 @@ $rules = <<<RULE
 ||fsd.it
 ||ggpht.com
 ||golang.org
+||google.com
+||google.com.tw
 ||google-analytics.com
 ||googleadservices.com
 ||googleapis.com
