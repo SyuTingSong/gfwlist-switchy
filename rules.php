@@ -143,5 +143,15 @@ $rules = <<<RULE
 !----------------EOF----------------
 RULE;
 
-$gfwlist = str_replace('!----------------EOF----------------', $rules, $gfwlist);
+$gfwlist = str_replace(
+    array(
+        '!----------------EOF----------------',
+        '@@||ipv6.google.com',
+    ),
+    array(
+        $rules,
+        '',
+    ),
+    $gfwlist
+);
 echo $gfwlist;
