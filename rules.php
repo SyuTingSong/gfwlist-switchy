@@ -57,6 +57,7 @@ $rules = <<<RULE
 ||filippo.io
 ||fsd.it
 ||ggpht.com
+||gigacircle.com
 ||golang.org
 ||google.com
 ||google.com.tw
@@ -68,6 +69,7 @@ $rules = <<<RULE
 ||googletagservices.com
 ||googleusercontent.com
 ||googlevideo.com
+||goo.gl
 ||gstatic.com
 ||hidemyass.com
 ||html5rocks.com
@@ -79,12 +81,14 @@ $rules = <<<RULE
 ||josephjiang.com
 ||joypark.com.tw
 ||justfont.com
+||keakon.net
 ||ktnp.gov.tw
 ||lawrencenas.com
 ||libertytimes.com.tw
 ||lists.debian.org
 ||macosforge.org
 ||makhonkit.com
+||metroradio.com.hk
 ||mobile01.com
 ||mongodb.org
 ||mybloglog.com
