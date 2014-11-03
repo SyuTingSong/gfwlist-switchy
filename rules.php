@@ -85,6 +85,7 @@ $rules = <<<RULE
 ||ktnp.gov.tw
 ||lawrencenas.com
 ||libertytimes.com.tw
+||linode.com
 ||lists.debian.org
 ||macosforge.org
 ||makhonkit.com
