@@ -33,6 +33,7 @@ $rules = <<<RULE
 ||blogsmithmedia.com
 ||blogspot.com
 ||blogspot.jp
+||blogspot.tw
 ||book.com.tw
 ||books.com.tw
 ||businessinsider.com
@@ -54,6 +55,7 @@ $rules = <<<RULE
 ||facebook.net
 ||fastly.net
 ||fb.com
+||fengzhenghu.net
 ||filippo.io
 ||fsd.it
 ||ggpht.com
@@ -105,6 +107,7 @@ $rules = <<<RULE
 ||president.gov.tw
 ||ptt.cc
 ||readmoo.com
+||robert-lerner.com
 ||roodo.com
 ||scorecardresearch.com
 ||skype.com
