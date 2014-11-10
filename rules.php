@@ -50,6 +50,7 @@ $rules = <<<RULE
 ||dropbox.com
 ||drx.tw
 ||dyndns.org
+||easylife.tw
 ||edgesuite.net
 ||engadget.com
 ||facebook.net
@@ -89,6 +90,7 @@ $rules = <<<RULE
 ||libertytimes.com.tw
 ||linode.com
 ||lists.debian.org
+||ltn.com.tw
 ||macosforge.org
 ||makhonkit.com
 ||metroradio.com.hk
@@ -143,6 +145,7 @@ $rules = <<<RULE
 ||ytimg.com
 ||zeromq.org
 ||zh.wikipedia.org
+||zipangguide.net
 !------------For Speed--------------
 ||github.com
 ||instagram.com
