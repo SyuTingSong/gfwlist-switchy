@@ -97,6 +97,7 @@ $rules = <<<RULE
 ||mobile01.com
 ||mongodb.org
 ||mybloglog.com
+||mzstatic.com
 ||nextmedia.com
 ||ntdtv.com
 ||nuu.edu.tw
@@ -143,6 +144,7 @@ $rules = <<<RULE
 ||youtu.be
 ||youtube.com
 ||ytimg.com
+||zdassets.com
 ||zeromq.org
 ||zh.wikipedia.org
 ||zipangguide.net
