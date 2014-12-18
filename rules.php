@@ -20,6 +20,7 @@ $rules = <<<RULE
 ||2mdn.net
 ||52ph.com
 ||abbyy.com
+||about.me
 ||aboutsimon.com
 ||adtech.de
 ||akamai.net
@@ -129,6 +130,7 @@ $rules = <<<RULE
 ||uukt.com.tw
 ||verisign.com.tw
 ||vimeo.com
+||w.org
 ||wireshark.org
 ||wordpress.com
 ||woyaolian.info
