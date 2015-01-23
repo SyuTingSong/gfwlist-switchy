@@ -17,6 +17,7 @@ $rules = <<<RULE
 |http://ip.cn
 |http://upload.wikimedia.org
 |https://upload.wikimedia.org
+||1dpw.com
 ||2mdn.net
 ||52ph.com
 ||abbyy.com
@@ -98,11 +99,14 @@ $rules = <<<RULE
 ||mobile01.com
 ||mongodb.org
 ||mybloglog.com
+||mybuys.com
 ||mzstatic.com
 ||nextmedia.com
 ||ntdtv.com
 ||nuu.edu.tw
 ||ow.ly
+||oreilly.com
+||oreillystatic.com
 ||photowant.com
 ||phpdoc.org
 ||pixfs.net
@@ -155,6 +159,7 @@ $rules = <<<RULE
 ||instagram.com
 ||monkeymajik.com
 ||nginx.org
+||postgresql.org
 !----------------EOF----------------
 RULE;
 
