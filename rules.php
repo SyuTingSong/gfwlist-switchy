@@ -123,6 +123,7 @@ $rules = <<<RULE
 ||sourceforge.net
 ||staticflickr.com
 ||stock.hexun.com
+||telegram.org
 ||ticket.com.tw
 ||tumblr.com
 ||twbbs.org
