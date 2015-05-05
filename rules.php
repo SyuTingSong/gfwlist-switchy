@@ -30,6 +30,7 @@ $rules = <<<RULE
 ||angularjs.org
 ||aol.com
 ||appledaily.com.tw
+||becomekodiak.com
 ||bitbucket.org
 ||blogger.com
 ||blogsmithmedia.com
@@ -41,7 +42,9 @@ $rules = <<<RULE
 ||businessinsider.com
 ||c9.io
 ||canyu.org
+||cerevo.com
 ||cdninstagram.com
+||commentshk.com
 ||chrome.com
 ||chromium.org
 ||cloudflare.com
@@ -55,12 +58,14 @@ $rules = <<<RULE
 ||easylife.tw
 ||edgesuite.net
 ||engadget.com
+||evertype.com
 ||facebook.net
 ||fastly.net
 ||fb.com
 ||fengzhenghu.net
 ||filippo.io
 ||fsd.it
+||fsdn.com
 ||ggpht.com
 ||gigacircle.com
 ||golang.org
@@ -75,6 +80,8 @@ $rules = <<<RULE
 ||googleusercontent.com
 ||googlevideo.com
 ||goo.gl
+||gov.sg
+||grumpylemming.com
 ||gstatic.com
 ||hidemyass.com
 ||html5rocks.com
@@ -101,6 +108,7 @@ $rules = <<<RULE
 ||mybloglog.com
 ||mybuys.com
 ||mzstatic.com
+||nathankot.com
 ||nextmedia.com
 ||ntdtv.com
 ||nuu.edu.tw
@@ -123,6 +131,7 @@ $rules = <<<RULE
 ||sourceforge.net
 ||staticflickr.com
 ||stock.hexun.com
+||taedp.org.tw
 ||telegram.org
 ||ticket.com.tw
 ||tumblr.com
@@ -148,6 +157,7 @@ $rules = <<<RULE
 ||xuite.net
 ||yahoo.com
 ||yiiframework.com
+||yogo.tw
 ||youtu.be
 ||youtube.com
 ||ytimg.com
