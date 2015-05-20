@@ -58,6 +58,7 @@ $rules = <<<RULE
 ||easylife.tw
 ||edgesuite.net
 ||engadget.com
+||evernote.com
 ||evertype.com
 ||facebook.net
 ||fastly.net
@@ -133,6 +134,7 @@ $rules = <<<RULE
 ||stock.hexun.com
 ||taedp.org.tw
 ||telegram.org
+||thegeekstuff.com
 ||ticket.com.tw
 ||tumblr.com
 ||twbbs.org
