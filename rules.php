@@ -155,15 +155,16 @@ $rules = <<<RULE
 ||verisign.com.tw
 ||vimeo.com
 ||w.org
+||whatsapp.com
 ||wireshark.org
 ||wordpress.com
 ||woyaolian.info
 ||woyaolian.net
 ||wretch.cc
-||www.bbc.co.uk
-||www.chinese.rfi.fr
-||www.chiungyao.com.tw
-||www.pcdvd.com.tw
+||bbc.co.uk
+||chinese.rfi.fr
+||chiungyao.com.tw
+||pcdvd.com.tw
 ||xuite.net
 ||yahoo.com
 ||yiiframework.com
@@ -181,6 +182,8 @@ $rules = <<<RULE
 ||monkeymajik.com
 ||nginx.org
 ||postgresql.org
+||jquery.com
+||browserstack.com
 !----------------EOF----------------
 RULE;
 
