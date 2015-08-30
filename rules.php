@@ -145,6 +145,7 @@ $rules = <<<RULE
 ||thegeekstuff.com
 ||ticket.com.tw
 ||tumblr.com
+||tvbs.com.tw
 ||twbbs.org
 ||twimg.com
 ||tynt.com
