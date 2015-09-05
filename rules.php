@@ -44,6 +44,7 @@ $rules = <<<RULE
 ||c9.io
 ||caiyalin.com
 ||canyu.org
+||catfan.me
 ||cerevo.com
 ||cdninstagram.com
 ||commentshk.com
@@ -104,6 +105,7 @@ $rules = <<<RULE
 ||justfont.com
 ||keakon.net
 ||ktnp.gov.tw
+||lastpass.com
 ||lawrencenas.com
 ||libertytimes.com.tw
 ||linode.com
@@ -165,6 +167,7 @@ $rules = <<<RULE
 ||uukt.com.tw
 ||verisign.com.tw
 ||vimeo.com
+||vivaldi.club
 ||vivaldi.com
 ||vivaldi.net
 ||vpntunnel.com
