@@ -42,6 +42,7 @@ $rules = <<<RULE
 ||books.com.tw
 ||businessinsider.com
 ||c9.io
+||caiyalin.com
 ||canyu.org
 ||cerevo.com
 ||cdninstagram.com
@@ -52,8 +53,10 @@ $rules = <<<RULE
 ||cloudfront.net
 ||dailymotion.com
 ||disqus.com
+||digitalocean.com
 ||doubleclick.net
 ||dropbox.com
+||dropboxstatic.com
 ||drx.tw
 ||dyndns.org
 ||easylife.tw
@@ -83,6 +86,7 @@ $rules = <<<RULE
 ||googlevideo.com
 ||goo.gl
 ||gov.sg
+||greatwordpresshosting.com.au
 ||grumpylemming.com
 ||gstatic.com
 ||hidemyass.com
@@ -90,6 +94,8 @@ $rules = <<<RULE
 ||idv.tw
 ||im88.tw
 ||imrworldwide.com
+||inoreader.com
+||intercom.io
 ||iphone4.tw
 ||jetbrains.com
 ||jekyllrb.com
@@ -107,6 +113,7 @@ $rules = <<<RULE
 ||makhonkit.com
 ||marxi.co
 ||metroradio.com.hk
+||mgix.com
 ||mobile01.com
 ||mongodb.org
 ||msecnd.net
@@ -126,6 +133,7 @@ $rules = <<<RULE
 ||pixfs.net
 ||pixnet.net
 ||pixplug.in
+||poll.fm
 ||president.gov.tw
 ||ptt.cc
 ||quantserve.com
@@ -144,6 +152,7 @@ $rules = <<<RULE
 ||telegram.org
 ||thegeekstuff.com
 ||ticket.com.tw
+||transifex.com
 ||tumblr.com
 ||tvbs.com.tw
 ||twbbs.org
@@ -151,10 +160,14 @@ $rules = <<<RULE
 ||tynt.com
 ||udn.com
 ||udn.com.tw
+||universesandbox.com
 ||uploaded.net
 ||uukt.com.tw
 ||verisign.com.tw
 ||vimeo.com
+||vivaldi.com
+||vivaldi.net
+||vpntunnel.com
 ||w.org
 ||whatsapp.com
 ||wireshark.org
@@ -162,6 +175,7 @@ $rules = <<<RULE
 ||woyaolian.info
 ||woyaolian.net
 ||wretch.cc
+||wzyboy.im
 ||bbc.co.uk
 ||chinese.rfi.fr
 ||chiungyao.com.tw
