@@ -23,6 +23,7 @@ $rules = <<<RULE
 ||abbyy.com
 ||about.me
 ||aboutsimon.com
+||adsmarket.com
 ||adtech.de
 ||adzerk.net
 ||akamai.net
@@ -112,6 +113,7 @@ $rules = <<<RULE
 ||lists.debian.org
 ||ltn.com.tw
 ||macosforge.org
+||mailchimp.com
 ||makhonkit.com
 ||marxi.co
 ||metroradio.com.hk
