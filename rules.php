@@ -48,11 +48,12 @@ $rules = <<<RULE
 ||catfan.me
 ||cerevo.com
 ||cdninstagram.com
-||commentshk.com
+||chaiyalin.com
 ||chrome.com
 ||chromium.org
 ||cloudflare.com
 ||cloudfront.net
+||commentshk.com
 ||dailymotion.com
 ||disqus.com
 ||digitalocean.com
@@ -66,6 +67,7 @@ $rules = <<<RULE
 ||engadget.com
 ||evernote.com
 ||evertype.com
+||evozi.com
 ||facebook.net
 ||fastly.net
 ||fb.com
@@ -73,6 +75,7 @@ $rules = <<<RULE
 ||filippo.io
 ||fsd.it
 ||fsdn.com
+||gamis-orange-world.com
 ||ggpht.com
 ||gigacircle.com
 ||golang.org
@@ -91,6 +94,7 @@ $rules = <<<RULE
 ||greatwordpresshosting.com.au
 ||grumpylemming.com
 ||gstatic.com
+||hhmembers.net
 ||hidemyass.com
 ||html5rocks.com
 ||idv.tw
@@ -129,6 +133,7 @@ $rules = <<<RULE
 ||nextmedia.com
 ||ntdtv.com
 ||nuu.edu.tw
+||oceanpark.com.hk
 ||ow.ly
 ||oreilly.com
 ||oreillystatic.com
@@ -168,6 +173,7 @@ $rules = <<<RULE
 ||uploaded.net
 ||uukt.com.tw
 ||verisign.com.tw
+||videohelp.com
 ||vimeo.com
 ||vivaldi.club
 ||vivaldi.com
