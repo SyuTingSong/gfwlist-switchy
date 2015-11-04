@@ -6,7 +6,7 @@
  * Time: 上午3:47
  */
 $ch = curl_init();
-curl_setopt($ch, CURLOPT_URL, "http://autoproxy-gfwlist.googlecode.com/svn/trunk/gfwlist.txt");
+curl_setopt($ch, CURLOPT_URL, "https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt");
 curl_setopt($ch, CURLOPT_RETURNTRANSFER, TRUE);
 curl_setopt($ch, CURLOPT_HEADER, FALSE);
 $gfwlist = curl_exec($ch);
