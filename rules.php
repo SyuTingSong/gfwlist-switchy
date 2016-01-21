@@ -19,6 +19,7 @@ $rules = <<<RULE
 |https://upload.wikimedia.org
 ||1dpw.com
 ||2mdn.net
+||4004.com
 ||52ph.com
 ||abbyy.com
 ||about.me
