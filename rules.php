@@ -186,6 +186,7 @@ $rules = <<<RULE
 ||wordpress.com
 ||woyaolian.info
 ||woyaolian.net
+||woyaolian.org
 ||wretch.cc
 ||wzyboy.im
 ||bbc.co.uk
