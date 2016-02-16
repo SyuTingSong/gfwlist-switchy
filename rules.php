@@ -54,6 +54,7 @@ $rules = <<<RULE
 ||chromium.org
 ||cloudflare.com
 ||cloudfront.net
+||cnzz.com
 ||commentshk.com
 ||dailymotion.com
 ||disqus.com
@@ -77,6 +78,7 @@ $rules = <<<RULE
 ||fsd.it
 ||fsdn.com
 ||gamis-orange-world.com
+||geetest.com
 ||ggpht.com
 ||gigacircle.com
 ||golang.org
@@ -93,6 +95,7 @@ $rules = <<<RULE
 ||goo.gl
 ||gov.sg
 ||greatwordpresshosting.com.au
+||growingio.com
 ||grumpylemming.com
 ||gstatic.com
 ||hhmembers.net
@@ -132,6 +135,7 @@ $rules = <<<RULE
 ||nathankot.com
 ||nextmag.com.tw
 ||nextmedia.com
+||nixzhu.me
 ||ntdtv.com
 ||nuu.edu.tw
 ||oceanpark.com.hk
@@ -146,12 +150,14 @@ $rules = <<<RULE
 ||poll.fm
 ||president.gov.tw
 ||ptt.cc
+||qbox.me
 ||quantserve.com
 ||readmoo.com
 ||robert-lerner.com
 ||roga.tw
 ||roodo.com
 ||scorecardresearch.com
+||shimo.im
 ||skype.com
 ||slideshare.net
 ||sourceforge.net
@@ -203,6 +209,7 @@ $rules = <<<RULE
 ||zdassets.com
 ||zeromq.org
 ||zh.wikipedia.org
+||zhugeio.com
 ||zipangguide.net
 !------------For Speed--------------
 ||github.com
