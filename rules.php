@@ -33,6 +33,8 @@ $rules = <<<RULE
 ||angularjs.org
 ||aol.com
 ||appledaily.com.tw
+||atelierevolve.com
+||azurecomcdn.net
 ||becomekodiak.com
 ||bitbucket.org
 ||blogger.com
@@ -40,6 +42,7 @@ $rules = <<<RULE
 ||blogspot.com
 ||blogspot.jp
 ||blogspot.tw
+||brainbashers.com
 ||book.com.tw
 ||books.com.tw
 ||businessinsider.com
@@ -58,6 +61,7 @@ $rules = <<<RULE
 ||commentshk.com
 ||dailymotion.com
 ||disqus.com
+||disquscdn.com
 ||digitalocean.com
 ||doubleclick.net
 ||dropbox.com
@@ -104,8 +108,11 @@ $rules = <<<RULE
 ||idv.tw
 ||im88.tw
 ||imrworldwide.com
+||inboxsdk.com
+||infinario.com
 ||inoreader.com
 ||intercom.io
+||invisionapp-cdn.com
 ||iphone4.tw
 ||jetbrains.com
 ||jekyllrb.com
@@ -182,6 +189,7 @@ $rules = <<<RULE
 ||verisign.com.tw
 ||videohelp.com
 ||vimeo.com
+||vimeocdn.com
 ||vivaldi.club
 ||vivaldi.com
 ||vivaldi.net
@@ -194,6 +202,7 @@ $rules = <<<RULE
 ||woyaolian.net
 ||woyaolian.org
 ||wretch.cc
+||wuliaooo.com
 ||wzyboy.im
 ||bbc.co.uk
 ||chinese.rfi.fr
@@ -212,6 +221,7 @@ $rules = <<<RULE
 ||zhugeio.com
 ||zipangguide.net
 !------------For Speed--------------
+||adobe.com
 ||github.com
 ||instagram.com
 ||monkeymajik.com
