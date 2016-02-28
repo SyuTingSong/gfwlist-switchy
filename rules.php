@@ -59,6 +59,7 @@ $rules = <<<RULE
 ||cloudfront.net
 ||cnzz.com
 ||commentshk.com
+||creaelicita.cl
 ||dailymotion.com
 ||disqus.com
 ||disquscdn.com
@@ -104,6 +105,7 @@ $rules = <<<RULE
 ||gstatic.com
 ||hhmembers.net
 ||hidemyass.com
+||howtogeek.com
 ||html5rocks.com
 ||idv.tw
 ||im88.tw
@@ -114,17 +116,20 @@ $rules = <<<RULE
 ||intercom.io
 ||invisionapp-cdn.com
 ||iphone4.tw
+||izudreampass.com
 ||jetbrains.com
 ||jekyllrb.com
 ||josephjiang.com
 ||joypark.com.tw
 ||justfont.com
+||jwpcdn.com
 ||keakon.net
 ||ktnp.gov.tw
 ||lastpass.com
 ||lawrencenas.com
 ||libertytimes.com.tw
 ||linode.com
+||linuxacademy.com
 ||lists.debian.org
 ||ltn.com.tw
 ||macosforge.org
@@ -146,11 +151,14 @@ $rules = <<<RULE
 ||ntdtv.com
 ||nuu.edu.tw
 ||oceanpark.com.hk
-||ow.ly
+||ohdave.com
+||olark.com
 ||oreilly.com
 ||oreillystatic.com
+||ow.ly
 ||photowant.com
 ||phpdoc.org
+||pilot-pen.com.tw
 ||pixfs.net
 ||pixnet.net
 ||pixplug.in
@@ -163,6 +171,7 @@ $rules = <<<RULE
 ||robert-lerner.com
 ||roga.tw
 ||roodo.com
+||sangebaimao.com
 ||scorecardresearch.com
 ||shimo.im
 ||skype.com
@@ -222,13 +231,17 @@ $rules = <<<RULE
 ||zipangguide.net
 !------------For Speed--------------
 ||adobe.com
+||browserstack.com
 ||github.com
 ||instagram.com
+||jquery.com
 ||monkeymajik.com
+||mozilla.net
 ||nginx.org
 ||postgresql.org
-||jquery.com
-||browserstack.com
+||softlayer.com
+||unfo.xyz
+||vivaldi.club
 !----------------EOF----------------
 RULE;
 
