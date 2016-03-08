@@ -45,6 +45,7 @@ $rules = <<<RULE
 ||brainbashers.com
 ||book.com.tw
 ||books.com.tw
+||buff.ly
 ||businessinsider.com
 ||c9.io
 ||caiyalin.com
@@ -184,6 +185,7 @@ $rules = <<<RULE
 ||telegram.org
 ||thegeekstuff.com
 ||ticket.com.tw
+||tiqcdn.com
 ||transifex.com
 ||tumblr.com
 ||tvbs.com.tw
