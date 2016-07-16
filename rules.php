@@ -29,6 +29,7 @@ $rules = <<<RULE
 ||adzerk.net
 ||akamai.net
 ||akamaihd.net
+||alphawars.com
 ||amazonaws.com
 ||angularjs.org
 ||aol.com
@@ -105,6 +106,7 @@ $rules = <<<RULE
 ||grumpylemming.com
 ||gstatic.com
 ||hhmembers.net
+||hhvm.com
 ||hidemyass.com
 ||howtogeek.com
 ||html5rocks.com
@@ -126,6 +128,7 @@ $rules = <<<RULE
 ||jwpcdn.com
 ||keakon.net
 ||ktnp.gov.tw
+||l-penguin.idv.tw
 ||lastpass.com
 ||lawrencenas.com
 ||libertytimes.com.tw
@@ -149,6 +152,7 @@ $rules = <<<RULE
 ||nextmag.com.tw
 ||nextmedia.com
 ||nixzhu.me
+||npmjs.org
 ||ntdtv.com
 ||nuu.edu.tw
 ||oceanpark.com.hk
@@ -170,9 +174,11 @@ $rules = <<<RULE
 ||quantserve.com
 ||readmoo.com
 ||robert-lerner.com
+||rocksdb.org
 ||roga.tw
 ||roodo.com
 ||sangebaimao.com
+||scootersoftware.com
 ||scorecardresearch.com
 ||shimo.im
 ||skype.com
@@ -195,6 +201,7 @@ $rules = <<<RULE
 ||udn.com
 ||udn.com.tw
 ||universesandbox.com
+||unixmen.com
 ||uploaded.net
 ||uukt.com.tw
 ||verisign.com.tw
