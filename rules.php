@@ -62,6 +62,7 @@ $rules = <<<RULE
 ||cnzz.com
 ||commentshk.com
 ||creaelicita.cl
+||cy.edu.tw
 ||dailymotion.com
 ||disqus.com
 ||disquscdn.com
@@ -119,11 +120,13 @@ $rules = <<<RULE
 ||intercom.io
 ||invisionapp-cdn.com
 ||iphone4.tw
+||ivomynttinen.com
 ||izudreampass.com
 ||jetbrains.com
 ||jekyllrb.com
 ||josephjiang.com
 ||joypark.com.tw
+||jsfiddle.net
 ||justfont.com
 ||jwpcdn.com
 ||keakon.net
@@ -167,6 +170,7 @@ $rules = <<<RULE
 ||pixfs.net
 ||pixnet.net
 ||pixplug.in
+||plurk.com
 ||poll.fm
 ||president.gov.tw
 ||ptt.cc
@@ -200,6 +204,7 @@ $rules = <<<RULE
 ||tynt.com
 ||udn.com
 ||udn.com.tw
+||uncyclopedia.info
 ||universesandbox.com
 ||unixmen.com
 ||uploaded.net
@@ -215,6 +220,7 @@ $rules = <<<RULE
 ||w.org
 ||whatsapp.com
 ||wireshark.org
+||wix.com
 ||wordpress.com
 ||woyaolian.info
 ||woyaolian.net
@@ -226,6 +232,8 @@ $rules = <<<RULE
 ||chinese.rfi.fr
 ||chiungyao.com.tw
 ||pcdvd.com.tw
+||pimg.tw
+||pixanalytics.com
 ||xuite.net
 ||yahoo.com
 ||yiiframework.com
